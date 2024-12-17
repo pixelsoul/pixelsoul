@@ -3,7 +3,7 @@
 I'm developer that has a frontend focus, but I am a geek too, so like to explore through anything and everything that looks interesting to me. 
 
 ### Just some of the things that I have some experience, or a lot of experience in.
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,vue,nextjs,php,postgres,tailwind,typescript,nodejs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,vue,nextjs,php,postgres,tailwind,typescript,nodejs,vercel)](https://skillicons.dev)
 
 # What am I doing?
 
