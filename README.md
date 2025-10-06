@@ -7,7 +7,7 @@ I'm developer that has a frontend focus, but I am a geek too, so like to explore
 
 # What am I doing?
 
-- 🔎 I am looking for new opportunities to dive into and be apart of. 
-- ⚙️ I’m currently working on some personal projects for my portfolio.
+- 🔎 I am looking for new opportunities to dive into and be a part of. 
+- ⚙️ I’m currently working on some personal projects.
 - 🌱 I’m currently learning how to be better at TypeScript🤪😭
 - 💭 I would like to learn a language like Python or GoLang. I would also like to learn a 3D program, maybe Blender. Adobe After Effects would be pretty cool to learn as well☺️
